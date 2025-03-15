@@ -1,16 +1,28 @@
-## Hi there 👋
+## 🚀 Vignesh Mohan | Backend Developer (Python, Django, Flask)
 
-<!--
-**VigneshvijayMohan/VigneshvijayMohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! I'm Vignesh, a backend developer with **2+ years of experience** building scalable and efficient applications using **Python, Django, and Flask**.
 
-Here are some ideas to get you started:
+### 🔧 **What I Do:**  
+- **Backend Development:** Crafting robust APIs and microservices.  
+- **Database Management:** Expertise in **PostgreSQL & MongoDB**.  
+- **Cloud & DevOps:** Deploying applications on **AWS**.  
+- **System Design:** Optimizing performance and scalability.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 **What I’m Currently Working On:**  
+- Diving deeper into **system design & architecture**.  
+- Exploring **Kafka, event-driven architectures, and AI-powered apps**.  
+
+### 📚 **What I’m Learning:**  
+- **Advanced API design**, **caching**, **concurrency**, and **task queues**.  
+- Leveraging **LLMs & AI models** for real-world applications.  
+
+### 💬 **Let’s Connect!**  
+🚀 Check out my projects, and feel free to collaborate!  
+
+---
+
+💻 **GitHub Stats**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vigneshmohan&show_icons=true&theme=radical)  
+
+🌟 **Most Used Languages**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshmohan&layout=compact&theme=radical)  
