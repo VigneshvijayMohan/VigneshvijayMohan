@@ -22,7 +22,7 @@
 ---
 
 💻 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vigneshmohan&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VigneshvijayMohan&show_icons=true&theme=radical)  
 
 🌟 **Most Used Languages**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshmohan&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VigneshvijayMohan&layout=compact&theme=radical)  
